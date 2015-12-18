@@ -1,0 +1,25 @@
+Instruction to run project:
+
+This Web application is build in Eclipse Luna, Java 8 and MongoDB.
+It contains baic operations [Add, Search, Retrive all Data] of MongoDB.
+
+
+1. Start Mongodb Server
+2. Open Eclipse
+3. Open Your Project[SampleStudentMongoDB]
+4. Right click on Project
+5. Click on Run as ->Run on Server
+6. Select Your Tomcat Server
+7. Click on Next
+8. Add Your Project to Run
+9. Click on Finish
+
+Now Your Browser will open and you can perform the basic operations on mongodb using Java Web Application.
+
+Enjoy...!
+
+Any Query?
+Contact:
+Mahesh Bodhagire
+9673639643
+maheshbodhagire@gmail.com
